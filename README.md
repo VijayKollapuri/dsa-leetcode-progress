@@ -6,6 +6,7 @@ Daily LeetCode - DSA problems progress.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -15,4 +16,8 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
