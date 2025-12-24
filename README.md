@@ -25,4 +25,12 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0007-reverse-integer](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
