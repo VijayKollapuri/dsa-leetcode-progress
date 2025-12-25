@@ -13,6 +13,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,9 +38,14 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
