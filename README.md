@@ -23,6 +23,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0001-two-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +49,12 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
+## Sorting
+|  |
+| ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
