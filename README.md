@@ -36,11 +36,13 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting
@@ -60,4 +62,12 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
