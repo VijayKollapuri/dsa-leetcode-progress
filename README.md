@@ -75,4 +75,8 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
