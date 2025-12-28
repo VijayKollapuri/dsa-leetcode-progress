@@ -27,6 +27,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0001-two-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Math
@@ -94,4 +95,12 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
