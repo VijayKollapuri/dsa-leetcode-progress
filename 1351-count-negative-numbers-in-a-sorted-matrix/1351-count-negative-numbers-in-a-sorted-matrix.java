@@ -1,24 +1,44 @@
 
 class Solution {
     public int countNegatives(int[][] grid) {
-        int i = 0;
-        int j = grid[0].length - 1;
-        int ans = 0;
+        int m = grid.length, n = grid[0].length;
+        int r = 0, c = n - 1;
+        int count = 0;
 
-        while (i < grid.length && j >= 0){
-            if (j >= 0 && grid[i][j] < 0){
-                j--;
-                continue;
+        while (r < m && c >= 0) {
+            if (grid[r][c] < 0) {
+                count += (m - r);
+                c--; 
+            } else {
+                r++; // move down to rows with smaller values
             }
-            else 
-                i++;
-            ans += (grid[0].length - j - 1);
-            System.out.println(i+ " "+j);
         }
-        ans += (grid.length - i) * grid[0].length;
-        return ans ;
+        return count;
     }
 }
+``
+
+
+// class Solution {
+//     public int countNegatives(int[][] grid) {
+//         int i = 0;
+//         int j = grid[0].length - 1;
+//         int ans = 0;
+
+//         while (i < grid.length && j >= 0){
+//             if (grid[i][j] < 0){
+//                 j--;
+//                 continue;
+//             }
+//             else 
+//                 i++;
+//             ans += (grid[0].length - j - 1);
+//             System.out.println(i+ " "+j);
+//         }
+//         ans += (grid.length - i) * grid[0].length;
+//         return ans ;
+//     }
+// }
 
 // class Solution {
 //     public int countNegatives(int[][] grid) {
