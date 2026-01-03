@@ -36,6 +36,7 @@ Daily LeetCode - DSA problems progress.
 | [0066-plus-one](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -70,6 +71,7 @@ Daily LeetCode - DSA problems progress.
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting
 |  |
@@ -89,6 +91,7 @@ Daily LeetCode - DSA problems progress.
 | [0015-3sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Stack
 |  |
