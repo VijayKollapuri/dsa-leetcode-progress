@@ -30,6 +30,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0001-two-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0066-plus-one) |
@@ -60,6 +61,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0027-remove-element) |
@@ -85,6 +87,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Stack
