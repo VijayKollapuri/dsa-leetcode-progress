@@ -38,6 +38,7 @@ Daily LeetCode - DSA problems progress.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -50,6 +51,7 @@ Daily LeetCode - DSA problems progress.
 | [0066-plus-one](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
+| [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
