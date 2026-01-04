@@ -33,6 +33,7 @@ Daily LeetCode - DSA problems progress.
 | [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -126,6 +127,7 @@ Daily LeetCode - DSA problems progress.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
