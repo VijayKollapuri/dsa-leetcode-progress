@@ -11,6 +11,7 @@ Daily LeetCode - DSA problems progress.
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -19,6 +20,7 @@ Daily LeetCode - DSA problems progress.
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
@@ -84,6 +86,7 @@ Daily LeetCode - DSA problems progress.
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -155,4 +158,8 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
