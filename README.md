@@ -57,6 +57,7 @@ Daily LeetCode - DSA problems progress.
 | [0009-palindrome-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
@@ -148,6 +149,7 @@ Daily LeetCode - DSA problems progress.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
 ## Memoization
 |  |
@@ -165,4 +167,8 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
