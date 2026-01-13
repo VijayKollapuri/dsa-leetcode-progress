@@ -76,6 +76,7 @@ Daily LeetCode - DSA problems progress.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -89,6 +90,7 @@ Daily LeetCode - DSA problems progress.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
@@ -126,12 +128,14 @@ Daily LeetCode - DSA problems progress.
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
