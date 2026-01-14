@@ -44,6 +44,7 @@ Daily LeetCode - DSA problems progress.
 | [0066-plus-one](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
@@ -222,5 +223,6 @@ Daily LeetCode - DSA problems progress.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
