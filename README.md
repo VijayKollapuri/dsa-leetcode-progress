@@ -23,6 +23,7 @@ Daily LeetCode - DSA problems progress.
 | [0151-reverse-words-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -104,6 +105,7 @@ Daily LeetCode - DSA problems progress.
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
