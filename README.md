@@ -88,6 +88,7 @@ Daily LeetCode - DSA problems progress.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -102,6 +103,7 @@ Daily LeetCode - DSA problems progress.
 | [0075-sort-colors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
@@ -134,6 +136,7 @@ Daily LeetCode - DSA problems progress.
 | [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
@@ -218,6 +221,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -232,6 +236,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
 ## Bit Manipulation
 |  |
 | ------- |
