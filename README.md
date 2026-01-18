@@ -53,6 +53,7 @@ Daily LeetCode - DSA problems progress.
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0704-binary-search](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -180,6 +181,7 @@ Daily LeetCode - DSA problems progress.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
