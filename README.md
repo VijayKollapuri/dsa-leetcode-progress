@@ -11,6 +11,7 @@ Daily LeetCode - DSA problems progress.
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +57,7 @@ Daily LeetCode - DSA problems progress.
 | [0204-count-primes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0500-keyboard-row) |
@@ -129,6 +131,7 @@ Daily LeetCode - DSA problems progress.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
@@ -154,6 +157,7 @@ Daily LeetCode - DSA problems progress.
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -241,15 +245,18 @@ Daily LeetCode - DSA problems progress.
 | [0023-merge-k-sorted-lists](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -260,4 +267,8 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0136-single-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
