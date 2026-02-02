@@ -38,6 +38,7 @@ Daily LeetCode - DSA problems progress.
 | [0500-keyboard-row](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0500-keyboard-row) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
@@ -152,6 +153,7 @@ Daily LeetCode - DSA problems progress.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Daily LeetCode - DSA problems progress.
 | [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
 | ------- |
