@@ -10,6 +10,7 @@ Daily LeetCode - DSA problems progress.
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@ Daily LeetCode - DSA problems progress.
 | [0013-roman-to-integer](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0344-reverse-string) |
@@ -57,6 +59,7 @@ Daily LeetCode - DSA problems progress.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0088-merge-sorted-array) |
@@ -165,6 +168,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0015-3sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
