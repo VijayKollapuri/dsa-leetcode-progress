@@ -1,28 +1,22 @@
 class Solution {
     public boolean isTrionic(int[] nums) {
-        boolean p=false, q=false, r=false;
-        int i = 0;
-        while(i < nums.length - 1 &&  nums[i] < nums[i+1]) {
-            p = true;
-            System.out.println("One " + i + ": " + nums[i]);
+        int i = 0, n = nums.length;
+        while(i < n-1 &&  nums[i] < nums[i+1]) {
             i++;
         }
-        // i--;
-            
-        while((0 < i) &&  i < nums.length - 1 && nums[i] > nums[i+1]) {
-            System.out.println("Two " + i + ": " + nums[i]);
+            if(i == 0) return false;
+        int j = i;
+        while(i < n-1 && nums[i] > nums[i+1]) {
             i++;
-            q = true;
         }
-           
-        while((0 < i) &&  i < nums.length - 1 && nums[i] < nums[i + 1]) {
-            System.out.println("Three " + i + ": " + nums[i]);
+         if(i == j || i == n-1) return false;
+         j = i;  
+        while(i < n-1 && nums[i] < nums[i + 1]) {
             i++;
-            r = true;
         }
 
-        if(i != nums.length - 1) r = false;
+        if(i == j || i != n - 1) return false;
 
-        return ((p && q)&& r);
+        return true;
     }
 }
