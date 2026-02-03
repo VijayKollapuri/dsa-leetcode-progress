@@ -16,14 +16,15 @@ class Solution {
 
     Map<String,List<String>> map = Arrays.stream(strs)
     .collect(Collectors.groupingBy( s -> {
-        // char ch[] = s.toCharArray();
-        // Arrays.sort(ch);
-        // return new String(ch);
-        int[] count = new int[26];
-        for (char c : s.toCharArray()) {
-        count[c - 'a']++;
-        }
-return Arrays.toString(count);}));
+        char ch[] = s.toCharArray();
+        Arrays.sort(ch);
+        return new String(ch);
+        // int[] count = new int[26];
+        // for (char c : s.toCharArray()) {
+        // count[c - 'a']++;
+        
+// return Arrays.toString(count);
+}));
 
     list.addAll(map.values());
     return list;
