@@ -20,7 +20,7 @@ class Solution {
                 a -= 1;
             }
             
-             if(b != 1 && b > div) {
+             if(b > 1 && b > div) {
                 res.append(d);
                 res.append(d);
                 b -= 2;
