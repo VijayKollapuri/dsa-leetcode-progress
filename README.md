@@ -41,6 +41,7 @@ Daily LeetCode - DSA problems progress.
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
@@ -162,6 +163,7 @@ Daily LeetCode - DSA problems progress.
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
 | ------- |
