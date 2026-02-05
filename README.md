@@ -104,6 +104,7 @@ Daily LeetCode - DSA problems progress.
 | [0012-integer-to-roman](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
@@ -164,6 +165,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
@@ -253,6 +255,7 @@ Daily LeetCode - DSA problems progress.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
