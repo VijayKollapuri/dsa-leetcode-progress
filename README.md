@@ -116,6 +116,7 @@ Daily LeetCode - DSA problems progress.
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
+| [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
 ## Memoization
 |  |
