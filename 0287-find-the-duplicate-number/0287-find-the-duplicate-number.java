@@ -1,10 +1,16 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+        boolean[] seen = new boolean[nums.length + 1];
         for(int i : nums) {
-            if(set.contains(i)) return i;
-            set.add(i);
+            if(seen[i]) return i;
+            seen[i] = true;
         }
+        // HashSet<Integer> set = new HashSet<>();
+        // for(int i : nums) {
+        //     if(set.contains(i)) return i;
+        //     set.add(i);
+        // }
         return -1;
+        
     }
 }
