@@ -2,9 +2,9 @@ class Solution {
     public int[] dailyTemperatures(int[] arr) {
         int n = arr.length;
         ArrayDeque<Integer> q = new ArrayDeque<>();
-        q.offer(0);
+        // q.offer(0);
         int[] res = new int[n];
-        for(int i = 1; i < n; i++) {
+        for(int i = 0; i < n; i++) {
             while(!q.isEmpty() && arr[i] > arr[q.peek()]) {
                 int idx = q.pop();
                 res[idx] = i - idx;
