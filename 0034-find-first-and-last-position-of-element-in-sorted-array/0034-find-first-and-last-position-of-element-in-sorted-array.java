@@ -16,6 +16,21 @@ class Solution {
             }
         }
         return new int[]{-1,-1};
+        // return findAndLast(nums, target);
+    }
 
+// works only for the few test cases.
+    public static int[] findAndLast(int[] arr, int target) {
+        for(int i=0; i<arr.length; i++) {
+            if(arr[i] == target) {
+                for(int j = i + 1; j < arr.length; j++) {
+                    if(arr[j] == target) {
+                        return new int[]{i, j};
+                    }
+                }
+                        return new int[]{i, i};
+            }
+        }
+        return new int[]{-1,-1};
     }
 }
