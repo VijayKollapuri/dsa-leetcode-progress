@@ -87,6 +87,7 @@ Daily LeetCode - DSA problems progress.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
@@ -211,6 +212,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
@@ -349,4 +351,8 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0110-balanced-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
