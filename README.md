@@ -66,6 +66,7 @@ Daily LeetCode - DSA problems progress.
 | [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0049-group-anagrams) |
@@ -242,6 +243,7 @@ Daily LeetCode - DSA problems progress.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
