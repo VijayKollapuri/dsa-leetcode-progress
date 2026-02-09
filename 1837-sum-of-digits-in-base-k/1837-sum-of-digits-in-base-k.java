@@ -1,6 +1,12 @@
 class Solution {
     public int sumBase(int n, int k) {
-        return digitSum(convert(n, k));
+        int res = 0;
+        while(n > 0) {
+            res += n % k;
+            n /= k;
+        }
+        return res;
+        // return digitSum(convert(n, k));
     }
 
     public static int convert(int n, int k) {
