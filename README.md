@@ -122,6 +122,7 @@ Daily LeetCode - DSA problems progress.
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
+| [2843-count-symmetric-integers](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2843-count-symmetric-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -292,6 +293,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0204-count-primes) |
+| [2843-count-symmetric-integers](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
 |  |
