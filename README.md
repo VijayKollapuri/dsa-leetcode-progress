@@ -80,6 +80,7 @@ Daily LeetCode - DSA problems progress.
 | [0204-count-primes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
@@ -157,6 +158,7 @@ Daily LeetCode - DSA problems progress.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0345-reverse-vowels-of-a-string) |
