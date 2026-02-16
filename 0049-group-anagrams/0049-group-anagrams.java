@@ -2,9 +2,9 @@ class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> maps = Arrays.stream(strs)
                                         .collect(Collectors.groupingBy(input -> {
-                                            int[] freq = new int[128];
-                                            for(char c : input.toCharArray()) freq[c]++;
-                                            return Arrays.toString(freq);
+                                            char ch[] = input.toCharArray();
+                                            Arrays.sort(ch);
+                                            return new String(ch);
                                         }));
 
         List<List<String>> list = new ArrayList<>();
