@@ -7,7 +7,7 @@ class Solution {
         StringBuilder stringBuilder  = new StringBuilder();
 
         for(int i = 0; i < s1.length(); i++) {
-            if(s1.charAt(i) != s2.charAt(i)) return stringBuilder.toString();
+         if(s1.charAt(i) != s2.charAt(i)) return stringBuilder.toString();
 
             stringBuilder.append(s1.charAt(i));
         }
