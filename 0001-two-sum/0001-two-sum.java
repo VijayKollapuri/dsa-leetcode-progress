@@ -14,10 +14,12 @@ class Solution {
             if (hs.containsKey(val)){
                 ar[0] = idx;
                 ar[1] = hs.get(val);
-            }
+                return true;
+            } else {
             hs.put(nums[idx],idx);
-            return hs.containsKey(val);
-        }).toList();
+            return false;
+            }
+        }).findFirst();
 
         System.out.println(hs);
         return ar;
