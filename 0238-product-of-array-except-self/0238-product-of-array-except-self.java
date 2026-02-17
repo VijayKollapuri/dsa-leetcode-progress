@@ -16,6 +16,9 @@ class Solution {
                     res[j] *= pointer[0];
                     pointer[0] *= nums[j];
                  });
+    return res;
+    }
+}
         //========================================================
         // for(int i = 0; i < nums.length; i++) {
         //     res[i] = pointer;
@@ -26,10 +29,7 @@ class Solution {
         //     res[i] *= pointer;
         //     pointer *= nums[i];
         // }
-        return res;
-    }
-}
-
+        // return res;
 /**
  int n = nums.length;
         int[] res = new int[n];
