@@ -6,8 +6,8 @@ class Solution {
 
         return IntStream.range(0, s1.length())
                        .takeWhile(i -> s1.charAt(i) == s2.charAt(i))
-                       .mapToObj(s1::charAt)
-                       .map(String::valueOf)
-                       .collect(Collectors.joining());
-    }
+                       .mapToObj(i -> String.valueOf(s1.charAt(i)))
+                       .reduce("", (a, b) -> a + b);
+
+        }
 }
