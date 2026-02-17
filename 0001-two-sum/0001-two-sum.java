@@ -1,38 +1,26 @@
+import java.util.stream.*;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-       HashMap<Integer, Integer> map = new HashMap<>();
-       return IntStream.range(0, nums.length)
-                .mapToObj(i -> {
-                    int complement = target - nums[i];
-                    if(map.containsKey(complement)) {
-                        return new int[]{map.get(complement), i};
-                    }
-                    map.put(nums[i], i);
-                    return null;
-                })
-                .filter(Objects::nonNull)
-                .findFirst()
-                .orElse(new int[]{-1, -1});
-    //    return IntStream.range(0, nums.length)
-    //             .boxed()
-    //             .flatMap(i ->
-    //                 IntStream.range(i + 1, nums.length)
-    //                 .takeWhile(j -> nums[i] + nums[j] == target)
-    //                 .mapToObj(j -> new int[]{i,j})
-    //                 )
-    //             .findFirst()
-    //             .orElse(new int[]{-1,-1});
 
+        int ar[] = new int [2];
+        HashMap<Integer,Integer> hs = new HashMap<>();
+        int n = nums.length;
+
+        IntStream.range(0,n)
+        .boxed()
+        .filter(idx -> {
+            int val = target - nums[idx];
+            if (hs.containsKey(val)){
+                ar[0] = idx;
+                ar[1] = hs.get(val);
+            }
+            hs.put(nums[idx],idx);
+            return hs.containsKey(val);
+        }).toList();
+
+        System.out.println(hs);
+        return ar;
     }
 }
-/**
-
-  return IntStream.range(0, nums.length)
-                .boxed()
-                .flatMap(i -> IntStream.range(i + 1, nums.length)
-                        .filter(j -> nums[i] + nums[j] == target)
-                        .mapToObj(j -> new int[]{i, j})
-                )
-                .findFirst()
-
- */
+    
