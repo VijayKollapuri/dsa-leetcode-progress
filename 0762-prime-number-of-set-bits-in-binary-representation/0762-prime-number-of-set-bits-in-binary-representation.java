@@ -3,7 +3,7 @@ class Solution {
         Set<Integer> set = Set.of(2, 3, 5, 7, 11, 13, 17, 19);
         int count = 0;
         for(int i = left; i <= right; i++) {
-            int bitCount = setBits(i);
+            int bitCount = Integer.bitCount(i);
             if(set.contains(bitCount)) count++;
         }
         return count;
