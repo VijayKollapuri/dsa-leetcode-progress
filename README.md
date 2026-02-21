@@ -120,6 +120,7 @@ Daily LeetCode - DSA problems progress.
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1837-sum-of-digits-in-base-k) |
@@ -331,6 +332,7 @@ Daily LeetCode - DSA problems progress.
 | [0287-find-the-duplicate-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0389-find-the-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bucket Sort
 |  |
 | ------- |
