@@ -1,10 +1,9 @@
 class Solution {
     public int countPrimeSetBits(int left, int right) {
-        int count = 0;
-        for(int i = left; i <= right; i++) {
-            if(isPrime(setBits(i))) count++;
-        }
-        return count;
+        return IntStream.rangeClosed(left, right)
+                        .map(Solution::setBits)
+                        .filter(Solution::isPrime)
+                        .reduce(0, (a, b) -> a + 1);
     }
 
     public static int setBits(int n) {
