@@ -338,6 +338,7 @@ Daily LeetCode - DSA problems progress.
 | [0318-maximum-product-of-word-lengths](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bucket Sort
 |  |
