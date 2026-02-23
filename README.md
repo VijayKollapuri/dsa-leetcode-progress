@@ -30,6 +30,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0014-longest-common-prefix) |
@@ -149,6 +150,7 @@ Daily LeetCode - DSA problems progress.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -183,6 +185,7 @@ Daily LeetCode - DSA problems progress.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
