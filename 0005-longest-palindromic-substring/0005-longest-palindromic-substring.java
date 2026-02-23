@@ -1,3 +1,5 @@
+
+
 class Solution {
     public String longestPalindrome(String s) {
         return IntStream.range(0, s.length())
@@ -18,14 +20,17 @@ class Solution {
     }
 }
 
+
 /*
 class Solution {
     public String longestPalindrome(String s) {
-         return IntStream.range(0, s.length())
+         List<String> list = IntStream.range(0, s.length())
                         .boxed()
                         .flatMap(i -> IntStream.rangeClosed(i+1, s.length())
                                             .mapToObj(j -> s.substring(i,j)))
-                        .filter(Solution::isPalindrome)
+                        .collect(Collectors.toCollection(LinkedList::new));
+
+           return list.stream().filter(Solution::isPalindrome)
                         .max(Comparator.comparingInt(String::length)).orElse("");
        
     }
