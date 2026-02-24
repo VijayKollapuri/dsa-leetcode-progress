@@ -54,6 +54,7 @@ Daily LeetCode - DSA problems progress.
 | [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
 ## Sliding Window
 |  |
@@ -175,6 +176,7 @@ Daily LeetCode - DSA problems progress.
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Daily LeetCode - DSA problems progress.
 | [0984-string-without-aaa-or-bbb](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0984-string-without-aaa-or-bbb) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
