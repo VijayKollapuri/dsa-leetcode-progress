@@ -3,11 +3,11 @@ class Solution {
         int res = Integer.MAX_VALUE;
         for(int i : nums) {
             int temp = Math.abs(i);
-
+            if(temp == 0) return i;
             if(Math.abs(res) == temp) {
                 res = Math.max(res, i);
             } else {
-                res = temp < Math.abs(res) ? i : res;
+                res = temp < Math.abs(res ) ? i : res;
             }
         }
         return res;
