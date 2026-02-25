@@ -38,6 +38,7 @@ Daily LeetCode - DSA problems progress.
 | [0014-longest-common-prefix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0290-word-pattern) |
@@ -169,6 +170,7 @@ Daily LeetCode - DSA problems progress.
 | [0075-sort-colors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
