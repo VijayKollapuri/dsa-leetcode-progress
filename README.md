@@ -118,6 +118,7 @@ Daily LeetCode - DSA problems progress.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3637-trionic-array-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3637-trionic-array-i) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Math
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Daily LeetCode - DSA problems progress.
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Memoization
 |  |
 | ------- |
