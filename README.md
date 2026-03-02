@@ -117,6 +117,7 @@ Daily LeetCode - DSA problems progress.
 | [2239-find-closest-number-to-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2239-find-closest-number-to-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3637-trionic-array-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3637-trionic-array-i) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Math
@@ -188,6 +189,7 @@ Daily LeetCode - DSA problems progress.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Simulation
 |  |
 | ------- |
