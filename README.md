@@ -14,6 +14,7 @@ Daily LeetCode - DSA problems progress.
 | [0049-group-anagrams](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0290-word-pattern) |
@@ -67,6 +68,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
@@ -94,6 +96,7 @@ Daily LeetCode - DSA problems progress.
 | [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0283-move-zeroes) |
