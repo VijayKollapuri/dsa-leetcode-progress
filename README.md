@@ -65,6 +65,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ Daily LeetCode - DSA problems progress.
 | [0136-single-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
@@ -266,6 +268,7 @@ Daily LeetCode - DSA problems progress.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Database
@@ -288,6 +291,7 @@ Daily LeetCode - DSA problems progress.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0704-binary-search) |
