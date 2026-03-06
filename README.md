@@ -60,6 +60,7 @@ Daily LeetCode - DSA problems progress.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
