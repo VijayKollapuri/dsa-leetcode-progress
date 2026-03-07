@@ -26,6 +26,7 @@ Daily LeetCode - DSA problems progress.
 | [0451-sort-characters-by-frequency](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0500-keyboard-row) |
 | [0767-reorganize-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0767-reorganize-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -70,6 +71,7 @@ Daily LeetCode - DSA problems progress.
 | [0003-longest-substring-without-repeating-characters](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
@@ -110,6 +112,7 @@ Daily LeetCode - DSA problems progress.
 | [0704-binary-search](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0930-binary-subarrays-with-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
@@ -283,6 +286,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Database
 |  |
