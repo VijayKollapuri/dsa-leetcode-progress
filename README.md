@@ -65,6 +65,7 @@ Daily LeetCode - DSA problems progress.
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
+| [3110-score-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
