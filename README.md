@@ -31,6 +31,7 @@ Daily LeetCode - DSA problems progress.
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Daily LeetCode - DSA problems progress.
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
 | ------- |
