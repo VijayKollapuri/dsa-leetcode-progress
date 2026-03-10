@@ -3,11 +3,11 @@ class Solution {
         int sum = Arrays.stream(nums)
                         .sum();
         
-        int count = 0;
-        while(!((sum % k) == 0)) {
-            sum--;
-            count++;
-        }
-        return count;
+        // int count = 0;
+        // while(!((sum % k) == 0)) {
+        //     sum--;
+        //     count++;
+        // }
+        return sum % k;
     }
 }
