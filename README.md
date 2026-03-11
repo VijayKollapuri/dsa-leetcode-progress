@@ -129,6 +129,7 @@ Daily LeetCode - DSA problems progress.
 | [1800-maximum-ascending-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2239-find-closest-number-to-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2239-find-closest-number-to-zero) |
@@ -336,6 +337,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3847-find-the-score-difference-in-a-game) |
