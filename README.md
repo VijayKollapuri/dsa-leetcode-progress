@@ -402,6 +402,7 @@ Daily LeetCode - DSA problems progress.
 | [0389-find-the-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bucket Sort
