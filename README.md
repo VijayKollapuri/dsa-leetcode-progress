@@ -121,6 +121,7 @@ Daily LeetCode - DSA problems progress.
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1310-xor-queries-of-a-subarray](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1310-xor-queries-of-a-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
@@ -298,6 +299,7 @@ Daily LeetCode - DSA problems progress.
 | [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0930-binary-subarrays-with-sum) |
+| [1310-xor-queries-of-a-subarray](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Database
@@ -407,6 +409,7 @@ Daily LeetCode - DSA problems progress.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1009-complement-of-base-10-integer) |
+| [1310-xor-queries-of-a-subarray](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bucket Sort
