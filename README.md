@@ -63,6 +63,7 @@ Daily LeetCode - DSA problems progress.
 | [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -134,6 +135,7 @@ Daily LeetCode - DSA problems progress.
 | [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2239-find-closest-number-to-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2239-find-closest-number-to-zero) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -345,6 +347,7 @@ Daily LeetCode - DSA problems progress.
 | [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3847-find-the-score-difference-in-a-game) |
