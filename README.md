@@ -138,6 +138,7 @@ Daily LeetCode - DSA problems progress.
 | [2559-count-vowel-strings-in-ranges](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3637-trionic-array-i) |
@@ -167,6 +168,7 @@ Daily LeetCode - DSA problems progress.
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
 |  |
