@@ -134,6 +134,7 @@ Daily LeetCode - DSA problems progress.
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -349,6 +350,7 @@ Daily LeetCode - DSA problems progress.
 | [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
