@@ -31,6 +31,7 @@ Daily LeetCode - DSA problems progress.
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [3668-restore-finishing-order](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -144,6 +145,7 @@ Daily LeetCode - DSA problems progress.
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3637-trionic-array-i) |
+| [3668-restore-finishing-order](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3668-restore-finishing-order) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Math
 |  |
