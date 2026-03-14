@@ -10,7 +10,7 @@ class Solution {
        for(int i : o) {
         if(set.contains(i)){
            res[j++] = i;
-           set.remove(i);
+           //set.remove(i);
         }
        }
 
