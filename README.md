@@ -71,6 +71,7 @@ Daily LeetCode - DSA problems progress.
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
@@ -144,6 +145,7 @@ Daily LeetCode - DSA problems progress.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2239-find-closest-number-to-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2239-find-closest-number-to-zero) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2942-find-words-containing-character](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
