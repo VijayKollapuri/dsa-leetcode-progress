@@ -122,6 +122,7 @@ Daily LeetCode - DSA problems progress.
 | [0704-binary-search](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0832-flipping-an-image) |
 | [0930-binary-subarrays-with-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -225,6 +226,7 @@ Daily LeetCode - DSA problems progress.
 | [0344-reverse-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -350,6 +352,7 @@ Daily LeetCode - DSA problems progress.
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -357,6 +360,7 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1929-concatenation-of-array) |
@@ -430,6 +434,7 @@ Daily LeetCode - DSA problems progress.
 | [0318-maximum-product-of-word-lengths](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1310-xor-queries-of-a-subarray) |
