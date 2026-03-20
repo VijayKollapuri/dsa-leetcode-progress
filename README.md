@@ -177,6 +177,7 @@ Daily LeetCode - DSA problems progress.
 | [1837-sum-of-digits-in-base-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2396-strictly-palindromic-number) |
+| [2469-convert-the-temperature](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2843-count-symmetric-integers) |
