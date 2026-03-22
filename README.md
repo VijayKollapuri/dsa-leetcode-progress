@@ -76,6 +76,7 @@ Daily LeetCode - DSA problems progress.
 | [2942-find-words-containing-character](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Daily LeetCode - DSA problems progress.
 | [2396-strictly-palindromic-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3794-reverse-string-prefix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
