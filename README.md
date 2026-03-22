@@ -139,6 +139,7 @@ Daily LeetCode - DSA problems progress.
 | [1800-maximum-ascending-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
@@ -355,6 +356,7 @@ Daily LeetCode - DSA problems progress.
 | ------- |
 | [0832-flipping-an-image](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Simulation
