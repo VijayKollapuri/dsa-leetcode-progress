@@ -120,6 +120,7 @@ Daily LeetCode - DSA problems progress.
 | [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0704-binary-search) |
@@ -174,6 +175,7 @@ Daily LeetCode - DSA problems progress.
 | [0258-add-digits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
