@@ -31,6 +31,7 @@ Daily LeetCode - DSA problems progress.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1207-unique-number-of-occurrences) |
+| [1410-html-entity-parser](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3668-restore-finishing-order) |
@@ -62,6 +63,7 @@ Daily LeetCode - DSA problems progress.
 | [0984-string-without-aaa-or-bbb](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0984-string-without-aaa-or-bbb) |
 | [1108-defanging-an-ip-address](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
+| [1410-html-entity-parser](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
