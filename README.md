@@ -27,6 +27,7 @@ Daily LeetCode - DSA problems progress.
 | [0500-keyboard-row](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0525-contiguous-array) |
 | [0767-reorganize-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
@@ -60,6 +61,7 @@ Daily LeetCode - DSA problems progress.
 | [0451-sort-characters-by-frequency](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0500-keyboard-row) |
 | [0767-reorganize-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [0984-string-without-aaa-or-bbb](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0984-string-without-aaa-or-bbb) |
 | [1108-defanging-an-ip-address](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1108-defanging-an-ip-address) |
@@ -299,6 +301,7 @@ Daily LeetCode - DSA problems progress.
 | [0389-find-the-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0791-custom-sort-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1200-minimum-absolute-difference) |
