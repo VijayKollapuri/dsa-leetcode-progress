@@ -35,21 +35,16 @@ class Solution {
         StringBuilder str = new StringBuilder();
 
         for(char c : order.toCharArray()) {
-            if(f[c - 'a'] > 0) {
-                int n = c - 'a';
-                while(f[n]-- > 0) {
+                while(f[c - 'a']-- > 0) {
                     str.append(c);
                 }
             }
-        }
 
         for(int i = 0; i < 26; i++) {
-            if(f[i] > 0) {
                 while(f[i]-- > 0) {
                     str.append((char) (i + 'a'));
                 }
             }
-        }
 
         return str.toString();
     }
