@@ -48,6 +48,7 @@ Daily LeetCode - DSA problems progress.
 | [0049-group-anagrams](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0318-maximum-product-of-word-lengths) |
@@ -109,6 +110,7 @@ Daily LeetCode - DSA problems progress.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
@@ -269,6 +271,7 @@ Daily LeetCode - DSA problems progress.
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0179-largest-number) |
 | [0767-reorganize-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0767-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0984-string-without-aaa-or-bbb](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0984-string-without-aaa-or-bbb) |
@@ -287,6 +290,7 @@ Daily LeetCode - DSA problems progress.
 | [0075-sort-colors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0242-valid-anagram) |
