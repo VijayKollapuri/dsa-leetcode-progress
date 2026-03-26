@@ -149,6 +149,7 @@ Daily LeetCode - DSA problems progress.
 | [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -189,6 +190,7 @@ Daily LeetCode - DSA problems progress.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1837-sum-of-digits-in-base-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2396-strictly-palindromic-number) |
@@ -280,6 +282,7 @@ Daily LeetCode - DSA problems progress.
 | [0767-reorganize-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0767-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0984-string-without-aaa-or-bbb](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0984-string-without-aaa-or-bbb) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
@@ -310,6 +313,7 @@ Daily LeetCode - DSA problems progress.
 | [1200-minimum-absolute-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1200-minimum-absolute-difference) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1859-sorting-the-sentence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -514,4 +518,8 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
