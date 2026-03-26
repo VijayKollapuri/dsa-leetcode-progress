@@ -143,6 +143,7 @@ Daily LeetCode - DSA problems progress.
 | [1207-unique-number-of-occurrences](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1310-xor-queries-of-a-subarray](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1310-xor-queries-of-a-subarray) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1390-four-divisors) |
@@ -307,6 +308,7 @@ Daily LeetCode - DSA problems progress.
 | [0945-minimum-increment-to-make-array-unique](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1200-minimum-absolute-difference) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1859-sorting-the-sentence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
