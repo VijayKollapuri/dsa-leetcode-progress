@@ -69,6 +69,7 @@ Daily LeetCode - DSA problems progress.
 | [1189-maximum-number-of-balloons](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [1410-html-entity-parser](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -150,6 +151,7 @@ Daily LeetCode - DSA problems progress.
 | [1480-running-sum-of-1d-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -273,6 +275,7 @@ Daily LeetCode - DSA problems progress.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0509-fibonacci-number) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
@@ -283,6 +286,7 @@ Daily LeetCode - DSA problems progress.
 | [0945-minimum-increment-to-make-array-unique](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0984-string-without-aaa-or-bbb](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0984-string-without-aaa-or-bbb) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
