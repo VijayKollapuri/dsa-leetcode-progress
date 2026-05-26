@@ -36,6 +36,7 @@ Daily LeetCode - DSA problems progress.
 | [1410-html-entity-parser](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3668-restore-finishing-order](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -82,6 +83,7 @@ Daily LeetCode - DSA problems progress.
 | [2810-faulty-keyboard](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
