@@ -156,6 +156,7 @@ Daily LeetCode - DSA problems progress.
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1920-build-array-from-permutation) |
@@ -290,6 +291,7 @@ Daily LeetCode - DSA problems progress.
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1975-maximum-matrix-sum) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -320,6 +322,7 @@ Daily LeetCode - DSA problems progress.
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1833-maximum-ice-cream-bars](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -528,4 +531,8 @@ Daily LeetCode - DSA problems progress.
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
