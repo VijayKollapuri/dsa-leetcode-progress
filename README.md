@@ -36,6 +36,7 @@ Daily LeetCode - DSA problems progress.
 | [1410-html-entity-parser](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3668-restore-finishing-order](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -94,6 +95,7 @@ Daily LeetCode - DSA problems progress.
 | [0219-contains-duplicate-ii](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Daily LeetCode - DSA problems progress.
 | [2239-find-closest-number-to-zero](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2239-find-closest-number-to-zero) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2942-find-words-containing-character](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2942-find-words-containing-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
