@@ -144,6 +144,7 @@ Daily LeetCode - DSA problems progress.
 | [0945-minimum-increment-to-make-array-unique](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -453,6 +454,7 @@ Daily LeetCode - DSA problems progress.
 | [0347-top-k-frequent-elements](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/VijayKollapuri/dsa-leetcode-progress/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
